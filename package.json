@@ -21,6 +21,7 @@
   "homepage": "https://github.com/Jevith17/Media-Uploader#readme",
   "description": "",
   "dependencies": {
+    "bullmq": "^5.56.9",
     "express": "^5.1.0",
     "multer": "^2.0.2"
   }
